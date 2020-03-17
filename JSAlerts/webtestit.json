@@ -1,0 +1,10 @@
+{
+  "defaultTestName": "should... ",
+  "pageObjectFolder": "test/pageobjects",
+  "projectName": "JSAlerts",
+  "rootPackage": "uitest",
+  "targetFramework": "Protractor",
+  "targetLanguage": "ts",
+  "testFolder": "test/tests",
+  "version": "1.10.0"
+}
